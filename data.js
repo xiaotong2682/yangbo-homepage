@@ -24,7 +24,7 @@ window.ACADEMIC_PROFILE = {
       "expected": true,
       "name": "张文杰",
       "degree": "本科",
-      "destination": "北京航空航天大学 · 硕士（推免）"
+      "destination": "北京大学 · 硕士（推免）"
     },
     {
       "year": "2026",
