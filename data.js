@@ -1,6 +1,6 @@
 // 公开资料核对日期：2026-10-17。来源见 sources.md；学生去向由网站委托人确认。
 window.ACADEMIC_PROFILE = {
-  "name": "杨博b'b'b'b'b'b'b'b'b'b'b'b'b'b'b'b'b",
+  "name": "杨博吧啵啵啵啵啵啵啵啵啵啵啵啵宝宝",
   "englishName": "Bo Yang",
   "title": "副教授，硕士生导师",
   "university": "南京信息工程大学",
